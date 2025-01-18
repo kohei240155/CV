@@ -21,12 +21,14 @@ Webアプリの新規・追加開発に対してフルスタック開発者と�
 #### 案件概要
 証券会社における社内システムの新規開発にフルスタックの開発者として参画。
 - ブランチ戦略の策定と実行を主導し、3つの新しいGitLab CI/CDパイプラインを実装。  
-これにより月間作業時間を[X]時間削減し、チームの生産性を向上させました。
-- フルスタック開発者として、要件のヒアリングから実装、テストを担当し、合計[x]画面、[X]本のAPIを実装しました。
+これにより月間作業時間を約15時間削減し、チームの生産性を向上させました。
+- フルスタック開発者として、要件のヒアリングから実装、テストを担当し、合計5画面、15本のAPIを実装しました。
 - スクラムを用いたアジャイル開発を採用し、Daily Scrumの運営やチケット管理の課題を特定、  
 改善提案を行いチーム運営の円滑化を実現しました。
 #### 使用技術
 Next.js | Spring Boot | OracleDB | Swagger | GitLab | GitLab CI/CD | Docker | JIRA
+
+---
 
 ### DevOps開発者  
 **2023年10月 – 2024年3月**  
@@ -41,6 +43,8 @@ Next.js | Spring Boot | OracleDB | Swagger | GitLab | GitLab CI/CD | Docker | JI
 #### 使用技術
 GitLab | GitLab CI/CD | Python | Shell | Docker | JIRA
 
+---
+
 ### フルスタック開発者  
 **2023年4月 – 2023年9月**  
 **アクセンチュア（東京、日本）**  
@@ -51,6 +55,8 @@ GitLab | GitLab CI/CD | Python | Shell | Docker | JIRA
 #### 使用技術
 Angular | Spring Boot | SQLServer | Azure | Flyway | MyBatis
 
+---
+
 ### RPA開発者  
 **2022年11月 – 2023年3月**  
 **アクセンチュア（東京、日本）**  
@@ -59,6 +65,8 @@ Angular | Spring Boot | SQLServer | Azure | Flyway | MyBatis
 - 大手証券会社で6か月間、5つの新しいUiPathロボットを開発し、既存ロボットの修正も担当。
 #### 使用技術
 UiPath | VB.NET
+
+---
 
 ### RPA開発者  
 **2019年4月 – 2021年3月**  
