@@ -175,7 +175,9 @@ Webアプリ開発未経験の状態から、2か月で一連の設計〜リリ�
 内部会議の資料準備・進行サポートを通じて、リーダーの負荷軽減に貢献。主体的に周囲を支援する姿勢を評価された。
 
 ### 使用技術
-Angular | Spring Boot | SQLServer | Azure | Flyway | MyBatis
+- フロントエンド: Angular | TypeScript | NG-ZORRO
+- バックエンド: Spring Boot | Java | Flyway | MyBatis | OracleDB
+- 開発ツール: GitLab | GitLab CI/CD | Swagger | JIRA
 
 ---
 
@@ -191,7 +193,7 @@ UiPath | VB.NET
 ---
 
 ### RPAエンジニア  
-**2019年4月 – 2021年3月**  
+**2019年4月 – 2022年7月**  
 **三菱UFJニコス株式会社（東京、日本）**  
 #### 案件概要
 事務系の部署にて業務改善担当者としてデジタル技術の導入した業務効率化を実施。
